@@ -1,0 +1,11 @@
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\bin\Debug\net8.0\SiteAPI.Domain.deps.json
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\bin\Debug\net8.0\SiteAPI.Domain.dll
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\bin\Debug\net8.0\SiteAPI.Domain.pdb
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.AssemblyInfo.cs
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.dll
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\refint\SiteAPI.Domain.dll
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.pdb
+C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Domain\obj\Debug\net8.0\ref\SiteAPI.Domain.dll
