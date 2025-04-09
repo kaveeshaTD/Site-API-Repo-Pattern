@@ -13,3 +13,19 @@ C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI
 C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Applications\obj\Debug\net8.0\refint\SiteAPI.Applications.dll
 C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.pdb
 C:\Users\Kaveesha\OneDrive - iTelaSoft Pvt Ltd\Documents\Projects\Sample\SiteAPI\SiteAPI.Applications\obj\Debug\net8.0\ref\SiteAPI.Applications.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\bin\Debug\net8.0\SiteAPI.Applications.deps.json
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\bin\Debug\net8.0\SiteAPI.Applications.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\bin\Debug\net8.0\SiteAPI.Applications.pdb
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\bin\Debug\net8.0\SiteAPI.Domain.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\bin\Debug\net8.0\SiteAPI.Domain.pdb
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.csproj.AssemblyReference.cache
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.AssemblyInfoInputs.cache
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.AssemblyInfo.cs
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.csproj.CoreCompileInputs.cache
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.sourcelink.json
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI..2119D0B3.Up2Date
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\refint\SiteAPI.Applications.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\SiteAPI.Applications.pdb
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Applications\obj\Debug\net8.0\ref\SiteAPI.Applications.dll

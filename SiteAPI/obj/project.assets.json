@@ -4577,19 +4577,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kaveesha\\.nuget\\packages\\": {}
+    "C:\\Users\\Kaveesha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaveesha\\OneDrive - iTelaSoft Pvt Ltd\\Documents\\Projects\\Sample\\SiteAPI\\SiteAPI\\SiteAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Kaveesha\\Documents\\Personal Project\\dotnet\\Site APi\\Site-API-Repo-Pattern\\SiteAPI\\SiteAPI.csproj",
       "projectName": "SiteAPI",
-      "projectPath": "C:\\Users\\Kaveesha\\OneDrive - iTelaSoft Pvt Ltd\\Documents\\Projects\\Sample\\SiteAPI\\SiteAPI\\SiteAPI.csproj",
+      "projectPath": "C:\\Users\\Kaveesha\\Documents\\Personal Project\\dotnet\\Site APi\\Site-API-Repo-Pattern\\SiteAPI\\SiteAPI.csproj",
       "packagesPath": "C:\\Users\\Kaveesha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaveesha\\OneDrive - iTelaSoft Pvt Ltd\\Documents\\Projects\\Sample\\SiteAPI\\SiteAPI\\obj\\",
+      "outputPath": "C:\\Users\\Kaveesha\\Documents\\Personal Project\\dotnet\\Site APi\\Site-API-Repo-Pattern\\SiteAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Kaveesha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4603,8 +4608,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Kaveesha\\OneDrive - iTelaSoft Pvt Ltd\\Documents\\Projects\\Sample\\SiteAPI\\SiteAPI.Infrastructer\\SiteAPI.Infrastructer.csproj": {
-              "projectPath": "C:\\Users\\Kaveesha\\OneDrive - iTelaSoft Pvt Ltd\\Documents\\Projects\\Sample\\SiteAPI\\SiteAPI.Infrastructer\\SiteAPI.Infrastructer.csproj"
+            "C:\\Users\\Kaveesha\\Documents\\Personal Project\\dotnet\\Site APi\\Site-API-Repo-Pattern\\SiteAPI.Infrastructer\\SiteAPI.Infrastructer.csproj": {
+              "projectPath": "C:\\Users\\Kaveesha\\Documents\\Personal Project\\dotnet\\Site APi\\Site-API-Repo-Pattern\\SiteAPI.Infrastructer\\SiteAPI.Infrastructer.csproj"
             }
           }
         }
@@ -4618,7 +4623,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4664,7 +4670,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

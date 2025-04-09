@@ -12,8 +12,8 @@ using SiteAPI.Infrastructer.Database;
 namespace SiteAPI.Infrastructer.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240903053043_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20250404050953_initial migration")]
+    partial class initialmigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

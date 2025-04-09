@@ -6,6 +6,17 @@ using SiteAPI.Infrastructer.Repsitory;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add CORS service to the container
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAny", policy =>
+    {
+        policy.AllowAnyOrigin()   // Allows requests from any origin
+              .AllowAnyMethod()   // Allows any HTTP method (GET, POST, etc.)
+              .AllowAnyHeader();  // Allows any header
+    });
+});
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -36,6 +47,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+// Use CORS middleware
+app.UseCors("AllowAny");
 
 app.UseHttpsRedirection();
 

@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="3P Services\" />
+    <Compile Remove="3P Services\**" />
+    <EmbeddedResource Remove="3P Services\**" />
+    <None Remove="3P Services\**" />
   </ItemGroup>
 
   <ItemGroup>

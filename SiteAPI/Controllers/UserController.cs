@@ -15,21 +15,21 @@ namespace SiteAPI.Controllers
             _IuserServices = userservices;
         }
 
-        [HttpPost]
+        [HttpPost("create")]
         public async Task<IActionResult> CreateUserAsync([FromBody] CreateUserDTO createUserDTO)
         {
             var user = await _IuserServices.CreateUSerAsync(createUserDTO);
             return Ok(user);
         }
 
-        [HttpGet]
+        [HttpGet("get-users")]
         public async Task<IActionResult> GetUsersAsync()
         {
             var users = await _IuserServices.GetAllUserAsync();
             return Ok(users);
         }
 
-        [HttpDelete]
+        [HttpDelete("delete")]
         public async Task<IActionResult> DeleteUserAsync(Guid id)
         {
             var deleteuser = await _IuserServices.DdeletUserAsync(id);

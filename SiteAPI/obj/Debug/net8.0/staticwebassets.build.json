@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "m7WxWOIMyUkKYfZQR28tdVNlyKA/gMDKyUF+biUipHQ=",
+  "Hash": "CwYM8N2C9vbZoxNh6asWR4p2rdm+C7g7j4HacOOPzoY=",
   "Source": "SiteAPI",
   "BasePath": "_content/SiteAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

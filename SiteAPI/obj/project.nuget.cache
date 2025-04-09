@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gslg+NexECfn5T2KCkeg2zdDRDB0uyoh30bTd6Q3ZCzBkBR9lsLnUD/xt0BdeHlMQa/lz0KiUgDlFLlnkz9Zyw==",
+  "dgSpecHash": "QZFRQyMXklY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaveesha\\OneDrive - iTelaSoft Pvt Ltd\\Documents\\Projects\\Sample\\SiteAPI\\SiteAPI\\SiteAPI.csproj",
+  "projectFilePath": "C:\\Users\\Kaveesha\\Documents\\Personal Project\\dotnet\\Site APi\\Site-API-Repo-Pattern\\SiteAPI\\SiteAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaveesha\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Kaveesha\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
