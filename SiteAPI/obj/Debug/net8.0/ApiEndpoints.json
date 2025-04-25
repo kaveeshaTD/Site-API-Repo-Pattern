@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "SiteAPI.Controllers.PropertyController",
+    "Method": "createPropertyAsync",
+    "RelativePath": "api/Property/create-property",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "properties",
+        "Type": "SiteAPI.Applications.DTO.CreatePropertyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SiteAPI.Controllers.PropertyController",
+    "Method": "getAllPropertyAsync",
+    "RelativePath": "api/Property/get-property",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SiteAPI.Controllers.UserController",
     "Method": "UpdateUserAsync",
     "RelativePath": "api/User/{id}",

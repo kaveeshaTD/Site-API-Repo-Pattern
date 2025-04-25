@@ -5,6 +5,49 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Property/create-property": {
+      "post": {
+        "tags": [
+          "Property"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreatePropertyDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreatePropertyDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreatePropertyDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Property/get-property": {
+      "get": {
+        "tags": [
+          "Property"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/User/create": {
       "post": {
         "tags": [
@@ -115,6 +158,28 @@
   },
   "components": {
     "schemas": {
+      "CreatePropertyDTO": {
+        "type": "object",
+        "properties": {
+          "propertie_Id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "location": {
+            "type": "string",
+            "nullable": true
+          },
+          "net_Worth": {
+            "type": "number",
+            "format": "double"
+          },
+          "user_Id": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "additionalProperties": false
+      },
       "CreateUserDTO": {
         "type": "object",
         "properties": {

@@ -21,3 +21,15 @@ C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Patte
 C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\refint\SiteAPI.Domain.dll
 C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.pdb
 C:\Users\Kaveesha\Documents\Personal Project\dotnet\Site APi\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\ref\SiteAPI.Domain.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\bin\Debug\net8.0\SiteAPI.Domain.deps.json
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\bin\Debug\net8.0\SiteAPI.Domain.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\bin\Debug\net8.0\SiteAPI.Domain.pdb
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.AssemblyInfo.cs
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.sourcelink.json
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\refint\SiteAPI.Domain.dll
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\SiteAPI.Domain.pdb
+C:\Users\Kaveesha\Documents\Personal Project\dotnet\SiteApi new\Site-API-Repo-Pattern\SiteAPI.Domain\obj\Debug\net8.0\ref\SiteAPI.Domain.dll

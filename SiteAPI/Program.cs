@@ -34,6 +34,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 //Dipendency injection
 builder.Services.AddScoped<IUserServices, UserServices>();
 
+builder.Services.AddScoped<IPropertyServices, PropertyServices>();
+
 builder.Services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
 
 builder.Services.AddScoped<ITransaction, Transaction>();
