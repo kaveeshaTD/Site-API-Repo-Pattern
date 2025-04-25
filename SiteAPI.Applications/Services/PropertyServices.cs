@@ -56,5 +56,23 @@ namespace SiteAPI.Applications.Services
                 throw new Exception("Exception Occurred fetching property");
             }
         }
+
+        public async Task<List<Properties>> getUserPropertiesAsync(Guid userId)
+        {
+            try
+            {
+
+
+                var item = await _transaction.GetRepository<Properties>().GetByIdPredicateAsync(p => p.User_Id == userId);
+                if (item == null)
+                {
+                    throw new Exception("item not found ..... ");
+                }
+                return item;
+            }
+            catch (Exception ex) {
+                throw new Exception($"Exception occurred while fetching properties for user {userId}: {ex.Message}", ex);
+            }
+        }
     }
 }

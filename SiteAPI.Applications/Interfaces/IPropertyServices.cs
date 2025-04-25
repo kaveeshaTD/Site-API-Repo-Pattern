@@ -12,5 +12,6 @@ namespace SiteAPI.Applications.Interfaces
     {
         Task<Properties> createPropertyAsync(CreatePropertyDTO properties);
         Task<List<Properties>> getAllPropertiesAsync();
+        Task<List<Properties>> getUserPropertiesAsync(Guid userId);
     }
 }

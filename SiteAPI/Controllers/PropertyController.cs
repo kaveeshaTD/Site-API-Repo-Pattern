@@ -30,5 +30,23 @@ namespace SiteAPI.Controllers
             return Ok(property);
         }
 
+        [HttpGet("user/{userId}")]
+        public async Task<IActionResult> GetUserProperties(Guid userId)
+        {
+            try
+            {
+                var properties = await _propertyServices.getUserPropertiesAsync(userId);
+                if(properties == null || properties.Count == 0)
+                {
+                    return NotFound(new { message = "Item not found for this user ID." });
+                }
+                return Ok(properties);
+            }
+            catch (Exception ex)
+            {
+                return NotFound(new { message = $"Error fetching user properties: {ex.Message}" });
+            }
+        }
+
     }
 }
