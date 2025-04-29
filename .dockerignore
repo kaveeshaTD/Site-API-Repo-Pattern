@@ -1,0 +1,10 @@
+# # Ignore build directories
+# bin/
+# obj/
+
+# # Ignore configuration files and IDE settings
+# .vscode/
+# .idea/
+
+# # Ignore test files
+# /tests/
